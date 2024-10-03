@@ -26,7 +26,7 @@ The dashboard highlights:
 - **Visual Analytics**: Comprehensive charts and graphs for an immediate understanding of key business metrics.
 - **Actionable Insights**: Identify top-performing products and peak sales times to optimize business strategies.
 
-##  Technology Used
+##  Tools Used
 - **Microsoft Excel**: Data analysis, visualization, and dashboard design.
 - **Markdown**: Documentation and project description.
 
