@@ -1,6 +1,6 @@
 
 
-# E-COMMERCE Sales Dashboard 🛒📊
+# E-COMMERCE Sales Dashboard (Excel) 🛒📊
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Khaja-DataBiz/ECOMMERCE_Sales?color=green&label=Repo%20Size&style=plastic)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Khaja-DataBiz/ECOMMERCE_Sales?style=flat-square)
