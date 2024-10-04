@@ -32,9 +32,9 @@ The dashboard highlights:
 
 ## Project Structure
 This repository contains the following files and folders:
-- `Dashboard/ECOMMERCE-sales.xlsx`: The main Excel file containing the interactive dashboard.
-- `Data/`: (Optional) Folder to hold raw data files, if needed.
-- `images/`: Folder for any relevant images or screenshots of the dashboard.
+- `Dashboard/ECOMMERCE-sales.xlsx`: Excel file containing the interactive dashboard.
+- `Data/`: Raw data
+- `images/`: Screenshots of the dashboard.
 
 ## Insights and Analysis
 The dashboard provides critical insights, including:
@@ -57,4 +57,4 @@ Potential enhancements for the dashboard include:
 ## 👥 Contact Information
 For questions, feedback, or suggestions, please reach out to me via:
 - **LinkedIn**: <a href="https://www.linkedin.com/in/khajaanirudhkhan" target="_blank">www.linkedin.com/in/khajaanirudhkhan</a>
-- **GitHub**: <a href="https://github.com/Khaja-DataBiz" target="_blank">github.com/Khaja-DataBiz</a>
+- **GitHub**: <a href="https://github.com/Khaja-DataBiz" target="_blank">https://github.com/Khaja-DataBiz/Ecommerce_Sales</a>
