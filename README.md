@@ -59,3 +59,16 @@ For questions, feedback, or suggestions, please reach out to me via:
 - **LinkedIn**: <a href="https://www.linkedin.com/in/khajaanirudhkhan" target="_blank">www.linkedin.com/in/khajaanirudhkhan</a>
 - **GitHub**: <a href="https://github.com/Khaja-DataBiz" target="_blank">Khaja-DataBiz</a>
 
+# Ecommerce Sales Analysis Project 📦📊
+
+| **Category**      | **Details**                                           |
+|-------------------|-------------------------------------------------------|
+| **Project Name**  | Ecommerce Sales Analysis Project                      |
+| **Description**   | An Excel-based dashboard analyzing sales data for an ecommerce company to identify key trends and performance metrics. |
+| **Key Features**  | Sales performance overview, Profit analysis, Product category insights, Monthly trends. |
+| **Technology Used** | Microsoft Excel, Power Query, Markdown for documentation. |
+| **File Format**   | `.xlsx`                                               |
+| **Repository Link** | [Ecommerce Sales Analysis GitHub Repo](#)           |
+| **Contact Info**  | [LinkedIn](#) \| [GitHub](#)                          |
+
+
