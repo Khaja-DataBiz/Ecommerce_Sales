@@ -57,4 +57,5 @@ Potential enhancements for the dashboard include:
 ## 👥 Contact Information
 For questions, feedback, or suggestions, please reach out to me via:
 - **LinkedIn**: <a href="https://www.linkedin.com/in/khajaanirudhkhan" target="_blank">www.linkedin.com/in/khajaanirudhkhan</a>
-- **GitHub**: <a href="https://github.com/Khaja-DataBiz" target="_blank">https://github.com/Khaja-DataBiz/Ecommerce_Sales</a>
+- **GitHub**: <a href="https://github.com/Khaja-DataBiz" target="_blank">Khaja-DataBiz</a>
+
